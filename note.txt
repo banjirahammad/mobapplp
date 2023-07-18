@@ -1,0 +1,2 @@
+live url: https://banjir-ahammad.com/vue/mobapplp/
+github repo: https://github.com/banjirahammad/mobapplp
